@@ -1,5 +1,7 @@
 Caddy 是一个用 Go 语言编写的、现代化的、开源的 Web 服务器和反向代理工具。它以“自动 HTTPS”（Automatic HTTPS）和极其简洁的配置著称，被广泛用于替代传统的 Nginx、Apache 或作为云原生环境中的微服务网关。
 
+<img width="882" height="794" alt="image" src="https://github.com/user-attachments/assets/1ba398af-b440-482d-be23-f68f75792814" />
+
 核心特性
 默认自动 HTTPS：Caddy 在启动时会利用 Let's Encrypt 或 ZeroSSL 自动申请、配置和续期 TLS/SSL 证书，全程无需人工干预。它还会自动重定向 HTTP 到 HTTPS。
 
